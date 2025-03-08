@@ -113,3 +113,8 @@ This project is licensed under the **MIT License**.
 
 ## Contact
 For any inquiries, contact **agapaitanveermou@gmail.com**.
+
+## Upwork Job Description
+## Python Developer Needed for Chatbot Integration in Robot Toy
+We are seeking an experienced Python developer to create and integrate a chatbot for a robotic toy. The ideal candidate will have a strong background in Python programming and experience with chatbot and API frameworks. The project involves speech recognition, TTS, face recognition and language translation like all the Pods do. I wrote the reply system code on Delphi so you can translate that to Python and integrate in the code. The libraries should be embedded and the logs must be kept on  AWS. This is the first leg of a project so if you can do this properly we can continue with next phases.
+
