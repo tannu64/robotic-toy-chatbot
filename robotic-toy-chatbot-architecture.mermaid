@@ -1,0 +1,12 @@
+graph TD;
+    A["User Input"] -->|"Speech Recognition"| B["Speech to Text"]
+    B -->|"Language Translation"| C["Text Processing"]
+    C -->|"Command Detection"| D["Command Handler"]
+    C -->|"Conversation"| E["Response Generator"]
+    F["Camera Input"] -->|"Face Recognition"| G["User Identification"]
+    G -->|"User Preferences"| C
+    D -->|"System Actions"| H["Action Execution"]
+    E -->|"Response Text"| I["Text to Speech"]
+    I -->|"Language Translation"| J["Speech Output"]
+    K["System Events"] -->|"Logging"| L["Local Logs"]
+    K -->|"Cloud Logging"| M["AWS CloudWatch"]

@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env
+
+# Logs and runtime files
+logs/
+*.log
+
+# Configuration files with sensitive data
+config/*.yaml
+!config/dev_config.yaml
+!config/prod_config.yaml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python package files
+dist/
+build/
+*.egg-info/
+
+# Docker files
+docker-compose.yml
+Dockerfile
+
+# Test coverage reports
+htmlcov/
+.coverage
+.tox/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore PyCharm settings
+.idea/
+
+# Ignore cache and temp files
+tmp/
+*.swp

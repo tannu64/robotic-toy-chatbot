@@ -1,0 +1,23 @@
+# Speech Recognition
+SpeechRecognition
+PyAudio
+
+# Text-to-Speech
+pyttsx3
+
+# Face Recognition
+face_recognition
+opencv-python
+
+# Translation (Google Trans unofficial; can break if API changes)
+# For production, consider AWS Translate or DeepL with official APIs
+googletrans
+
+# AWS Integration
+boto3
+
+# Configuration
+PyYAML
+
+# Utility/Testing
+pytest
